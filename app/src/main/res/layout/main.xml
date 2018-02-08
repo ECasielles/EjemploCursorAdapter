@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/fondo"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/btnAdd"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/addLibro"
+        android:onClick="btAddLibro"
+        android:src="@android:drawable/ic_menu_add"
+        android:tag="@string/addLibro" />
+
+    <ImageButton
+        android:id="@+id/btnList"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/listLibro"
+        android:onClick="btListLibro"
+        android:src="@android:drawable/ic_menu_info_details"
+        android:tag="@string/listLibro" />
+
+    <ImageButton
+        android:id="@+id/btnExit"
+        style="@style/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:contentDescription="@string/salir"
+        android:onClick="btExit"
+        android:src="@android:drawable/ic_menu_close_clear_cancel"
+        android:tag="@string/salir" />
+
+</LinearLayout>

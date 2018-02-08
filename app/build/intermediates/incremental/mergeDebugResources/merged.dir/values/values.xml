@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="estandar_dark">#25A</color>
+    <color name="estandar_light">#37D</color>
+    <color name="fondo_cuadro">#AFFF</color>
+    <color name="text_button">#FFF</color>
+    <color name="white">#FFF</color>
+    <dimen name="height_category_image">200px</dimen>
+    <dimen name="item_im_100">100dp</dimen>
+    <dimen name="item_im_150">150dp</dimen>
+    <dimen name="item_im_50">50dp</dimen>
+    <dimen name="margin_desplazamiento_movimiento">-210px</dimen>
+    <dimen name="margin_generic">5dp</dimen>
+    <dimen name="padding_especial">30dp</dimen>
+    <dimen name="padding_generic">10dp</dimen>
+    <dimen name="prin_margin">110px</dimen>
+    <dimen name="text_big">60dp</dimen>
+    <dimen name="text_middle">30dp</dimen>
+    <dimen name="text_small">20dp</dimen>
+    <string name="addLibro">Añadir libro</string>
+    <string name="agregar">Agregar</string>
+    <string name="app_name">MisLibros</string>
+    <string name="autor">Autor:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editLibro">Editar</string>
+    <string name="error">Error</string>
+    <string name="error_bd">Error al conectarse a la BD</string>
+    <string name="fondo">Imagen Fondo</string>
+    <string name="idioma">Idioma:</string>
+    <string name="inicio">Agregar un nuevo libro</string>
+    <string name="isbn">Isbn:</string>
+    <string name="isbn_existe">Ya existe un libro con el isbn %s</string>
+    <string name="listLibro">Listar Libros</string>
+    <string name="mensaje">Agregando datos del libro</string>
+    <string name="menu_settings">Settings</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_biblioteca">Mi Biblioteca</string>
+    <string name="titulo">Título:</string>
+    <style name="AppSubOption" parent="@android:style/Theme.Black"/>
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen"/>
+    <style name="button">
+    <item name="android:background">@drawable/selector_botones</item>
+</style>
+    <style name="fondo">
+	    <item name="android:scaleType">centerCrop</item>
+	</style>
+    <style name="titulo">
+	    <item name="android:textSize">@dimen/text_big</item>
+	    <item name="android:textColor">@color/estandar_light</item>
+	    <item name="android:paddingBottom">@dimen/padding_generic</item>    
+	</style>
+</resources>

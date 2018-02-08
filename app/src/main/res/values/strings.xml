@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">MisLibros</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_biblioteca">Mi Biblioteca</string>
+    <string name="inicio">Agregar un nuevo libro</string>
+    <string name="isbn">Isbn:</string>
+    <string name="titulo">Título:</string>
+    <string name="autor">Autor:</string>
+    <string name="idioma">Idioma:</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="agregar">Agregar</string>
+    <string name="mensaje">Agregando datos del libro</string>
+    <string name="fondo">Imagen Fondo</string>
+    <string name="addLibro">Añadir libro</string>
+    <string name="editLibro">Editar</string>
+    <string name="listLibro">Listar Libros</string>
+    <string name="salir">Salir</string>
+    
+    
+    
+
+</resources>

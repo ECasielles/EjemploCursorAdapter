@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="prin_margin">110px</dimen>
+    
+    <dimen name="margin_generic">5dp</dimen>
+    
+    <dimen name="padding_generic">10dp</dimen>
+    <dimen name="padding_especial">30dp</dimen>
+    
+    <dimen name="text_big">60dp</dimen>
+    <dimen name="text_middle">30dp</dimen>
+    <dimen name="text_small">20dp</dimen>
+    
+    <dimen name="margin_desplazamiento_movimiento">-210px</dimen>
+    
+    <dimen name="height_category_image">200px</dimen>
+    
+    <dimen name="item_im_100">100dp</dimen>
+    <dimen name="item_im_150">150dp</dimen>
+    <dimen name="item_im_50">50dp</dimen>
+    
+</resources>

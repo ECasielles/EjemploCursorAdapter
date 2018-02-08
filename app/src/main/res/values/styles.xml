@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen" />
+    <style name="AppSubOption" parent="@android:style/Theme.Black"/>
+    
+	<style name="titulo">
+	    <item name="android:textSize">@dimen/text_big</item>
+	    <item name="android:textColor">@color/estandar_light</item>
+	    <item name="android:paddingBottom">@dimen/padding_generic</item>    
+	</style>
+	<style name="fondo">
+	    <item name="android:scaleType">centerCrop</item>
+	</style>
+	<style name="button">
+    <item name="android:background">@drawable/selector_botones</item>
+</style>
+</resources>

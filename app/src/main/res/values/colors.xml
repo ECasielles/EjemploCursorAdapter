@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="estandar_light">#37D</color>
+    <color name="estandar_dark">#25A</color>
+    <color name="fondo_cuadro">#AFFF</color>
+    <color name="text_button">#FFF</color>
+    <color name="white">#FFF</color>
+    
+</resources>

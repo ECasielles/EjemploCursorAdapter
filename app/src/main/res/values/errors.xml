@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="isbn_existe">Ya existe un libro con el isbn %s</string>
+    <string name="error">Error</string>
+    <string name="error_bd">Error al conectarse a la BD</string>
+
+</resources>
